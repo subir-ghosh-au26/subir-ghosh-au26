@@ -57,4 +57,8 @@ I turn ☕ into clean code and UI magic.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=subir-ghosh-au26&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
+## 📊 My GitHub Contribution Graph
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=subir-ghosh-au26&theme=tokyo-night)](https://github.com/subir-ghosh-au26)
+
+
 
