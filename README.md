@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/subir-ghosh-au26/subir-ghosh-au26/blob/main/banner.png" alt="Subir Ghosh Banner" />
+</p>
+
 # 👋 Hi there, I'm Subir Ghosh
 ### 🚀 Frontend Developer | React.js Enthusiast | UI/UX Lover
 
